@@ -23,4 +23,6 @@ Before running the above python script follow the steps mentioned below.
 6. OUTPUT :The result video with persons detected and corresponding text files containing co-ordinates of each frame would be in zip file.
 
 Please contact me if you have any doubts.
+
 Email Id : devalshah190@gmail.com
+
