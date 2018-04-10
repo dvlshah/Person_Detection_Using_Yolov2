@@ -2,7 +2,7 @@
 
 ## I have used darknet framework for doing person detection on video. The code is written in python.
 
-###Thanks to Yolo[https://pjreddie.com/darknet/yolo/]
+##Thanks to Yolo[https://pjreddie.com/darknet/yolo/]
 
 To run the project do `python processing.py test_video_path`. 
 
@@ -22,3 +22,5 @@ Before running the above python script follow the steps mentioned below.
 
 6. OUTPUT :The result video with persons detected and corresponding text files containing co-ordinates of each frame would be in zip file.
 
+Please contact me if you have any doubts.
+Email Id : devalshah190@gmail.com
