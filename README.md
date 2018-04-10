@@ -2,13 +2,13 @@
 
 ## I have used darknet framework for doing person detection on video. The code is written in python.
 
-Thanks to Yolo[https://pjreddie.com/darknet/yolo/]
+Thanks to [Yolo](https://pjreddie.com/darknet/yolo/)
 
 To run the project do `python processing.py test_video_path`. 
 
 Before running the above python script follow the steps mentioned below.
 
-Download yolo.weight file from [https://drive.google.com/open?id=1zcNrabxm78KcXoISbuM06S7GF13t9u7j] and copy into the project directory
+Download yolo.weight file from [link to weight file!](https://drive.google.com/open?id=1zcNrabxm78KcXoISbuM06S7GF13t9u7j) and copy into the project directory
 
 1. Go in the project directory.
 
